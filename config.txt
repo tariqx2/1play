@@ -7,7 +7,7 @@ stayinchannel=true
 songinstatus=true
 
 
-game = "1Play    1Stop    1Help"
+
 
 
 status = ONLINE
