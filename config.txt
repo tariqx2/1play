@@ -27,7 +27,6 @@ help = "help"
 
 npimages = false
 
-stayinchannel = false
 
 
 maxtime = 0
