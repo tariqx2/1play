@@ -1,11 +1,10 @@
-﻿
-
-token = NjQ4NDMwNjE1NjA3MTE1ODA3.XduMjA.u3zcXRE3Q679SXg0tejYiJWqgyk
-
-owner = 599734414305394738
 
 
-prefix = "1"
+token=NjQ5MDI4OTI2ODg2MjQ4NDU4.Xd21Vg.mClsC5rozlzvuf6be7faGABR5I0
+owner=490709221093146636
+prefix=Li
+stayinchannel=true
+songinstatus=true
 
 
 game = "1Play    1Stop    1Help"
