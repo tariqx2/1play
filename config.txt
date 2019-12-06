@@ -1,6 +1,6 @@
 token=
 owner=490709221093146636
-prefix=Ar
+prefix=
 stayinchannel=true
 songinstatus=true
 stayinchannel=true
